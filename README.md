@@ -97,9 +97,6 @@ Anti-India-Hate-Speech-Detection/
 │── README.md
 │── demo/
 │── screenshots/
-│── src/
-│── dataset/
-│── requirements.txt
 ```
 
 ---
